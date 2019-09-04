@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonTextStyle" parent="@style/Widget.AppCompat.Button">
+        <item name="android:color">#FFFFFF</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="TextViewTextStyle">
+        <item name="android:color">#000000</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+</resources>
